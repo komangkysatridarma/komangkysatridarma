@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/849790.gif)](https://komangkysatridarma.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://komangkysatridarma.io)
 
 <h1 align="center">Hi 👋, I'm Komang Kysa Tri Darma</h1>
 <h3 align="center">A teenager who is trying to become an expert</h3>
