@@ -1,9 +1,9 @@
 [![MasterHead](https://wallpaperaccess.com/full/849790.gif)](https://komangkysatridarma.io)
 
-<h1 align="center">Hi 👋, I'm Komang Kysa</h1>
+<h1 align="center">Hi 👋, I'm Komang Kysa Tri Darma</h1>
 <h3 align="center">A teenager who is trying to become an expert</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komangkysatridarma&label=Profile%20views&color=0e75b6&style=flat" alt="komangkysatridarma" /> </p>
