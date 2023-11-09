@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Komang Kysa Tri Darma</h1>
 <h3 align="center">A teenager who is trying to become an expert</h3>
 
-[![](https://visitcount.itsvg.in/api?id=komangkysatridarma&icon=5&color=12)](https://visitcount.itsvg.in)
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
