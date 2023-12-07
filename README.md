@@ -8,13 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komangkysatridarma&label=Profile%20views&color=0e75b6&style=flat" alt="komangkysatridarma" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **Nothing**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **komangkeyza17@gmail.com**
 
-- ⚡ Fun fact **I'm Friendly and diligent**
+- ⚡ Fun fact **I'm diligent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
