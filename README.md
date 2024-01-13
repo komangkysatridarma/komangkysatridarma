@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komangkysatridarma&label=Profile%20views&color=0e75b6&style=flat" alt="komangkysatridarma" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **komangkeyza17@gmail.com**
 
